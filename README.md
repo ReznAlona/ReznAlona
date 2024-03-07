@@ -1,16 +1,48 @@
-### Hi there 👋
+![Background (1)](https://github.com/ReznAlona/ReznAlona/assets/162603428/61fa8ee1-9313-467f-95df-514267931755)
 
-<!--
-**ReznAlona/ReznAlona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alona - Senior QA Engineer
 
-Here are some ideas to get you started:
+## About Me
+Experienced Senior QA Engineer with over 4 years of expertise in both Manual and Automation testing. I thrive on challenges, enjoy thinking outside the box, and take pride not only in finding bugs but also in suggesting improvements to enhance the overall user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔮 Let's ensure your software meets the highest quality standards!
+
+## Testing Tools & Technologies
+
+### Test Management
+- Qase.io
+- TestRail
+
+### Project Management & Collaboration
+- Notion
+- Asana
+- Jira
+- Azure DevOps
+- Confluence
+- Linear
+
+### Automation Testing
+- Cypress
+- Nightwatch.js
+- Postman
+- Swagger
+- JMeter
+- New Relic
+
+### Bug Tracking & Reporting
+- Instabug
+- Chrome DevTools
+
+### Cross-Browser Testing
+- BrowserStack
+
+### Design Collaboration
+- Figma
+
+### Databases
+- MySQL
+- PostgreSQL
+
+## Let's Connect
+Feel free to reach out if you need assistance with testing, test automation, or improving your overall software quality.
+
